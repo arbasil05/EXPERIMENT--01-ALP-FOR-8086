@@ -77,7 +77,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-## Programs for arithmetic  operations
+# Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
 ```
@@ -122,6 +122,49 @@ HLT;
 ```
 ## Output  
 ![Division](https://github.com/user-attachments/assets/ad9662b8-b834-4812-84d7-b99fede3a2ff)
+
+# Programs for arithmetic  operations
+## Logical AND:
+```
+mov AL,53H;
+mov BL,24H;
+AND AL,BL;
+HLT;
+```
+
+## OUTPUT:
+![AND operation](https://github.com/user-attachments/assets/52ec0ce3-61d5-4b63-ac8a-df1539d5e10a)
+
+## Logical OR:
+```
+mov AL,53H;
+mov BL,24H;
+OR AL,BL;
+HLT;
+```
+
+## OUTPUT:
+![OR operation](https://github.com/user-attachments/assets/92e9f05d-6f80-4874-babf-be2d26b5462b)
+
+## Logical NOT:
+```
+mov AL,53H;
+not AL;
+HLT;
+```
+
+## OUTPUT:
+![NOT operation](https://github.com/user-attachments/assets/e4361323-edd2-4d57-9428-959010f2c482)
+
+## Logical XOR:
+```
+mov AL,53H;
+mov BL,24H;
+XOR AL,BL;
+HLT;
+```
+## OUTPUT:
+![XOR operation](https://github.com/user-attachments/assets/3150fb06-3795-4af8-9b76-739278e36b26)
 
 
 ## Result :
