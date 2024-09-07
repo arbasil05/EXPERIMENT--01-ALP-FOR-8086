@@ -123,7 +123,7 @@ HLT;
 ## Output  
 ![Division](https://github.com/user-attachments/assets/ad9662b8-b834-4812-84d7-b99fede3a2ff)
 
-# Programs for arithmetic  operations
+# Programs for Logical  operations
 ## Logical AND:
 ```
 mov AL,53H;
