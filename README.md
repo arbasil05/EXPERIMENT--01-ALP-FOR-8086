@@ -168,7 +168,7 @@ HLT;
 
 
 ## Result :
-Thus the program for arithmetic operations are complete
+Thus the program for arithmetic operations and logical operations are complete
 
 
 
