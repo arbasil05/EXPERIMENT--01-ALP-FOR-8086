@@ -100,7 +100,7 @@ sub AL,BL;
 HLT;
 ```
 ## Output  
-![Subtraction](https://github.com/user-attachments/assets/b09f6980-61d3-4205-97ec-07840d5c7754)
+![image](https://github.com/user-attachments/assets/96f96a36-9693-4a63-81f0-50899465b21c)
 
 ## Multiplication alp 
 ```
