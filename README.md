@@ -89,7 +89,7 @@ HLT;
 
 
 ## Output  
-![Adding](https://github.com/user-attachments/assets/58d68f9a-fe55-497b-bb02-303744021ace)
+s![image](https://github.com/user-attachments/assets/d6bc4491-6aaa-446e-805b-4ec986587743)
 
  
 ## Subtraction   of 8 bit numbers  ALP 
