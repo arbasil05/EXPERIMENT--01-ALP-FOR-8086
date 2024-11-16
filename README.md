@@ -3,7 +3,7 @@ Name : Abdur Rahman Basil A H
 <br>
 Roll no : 212223040002
 <br>
-Date of experiment :
+
 
 
 
@@ -32,7 +32,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 8.	 
 
 
-![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
+<img src="https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png" alt="STM32 Cube IDE" width="500" />
 
 
 
@@ -53,7 +53,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-![image](https://user-images.githubusercontent.com/36288975/189273273-9bb36ec1-e2e8-4892-8d35-37707332bfdc.png)
+<img src="https://user-images.githubusercontent.com/36288975/189273273-9bb36ec1-e2e8-4892-8d35-37707332bfdc.png" alt="STM32 Cube IDE Project" width = "500" />
 
 
 
@@ -69,7 +69,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
+<img src="https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png" alt="STM32 Cube IDE Configuration" width="500" />
 
 
 
@@ -89,7 +89,7 @@ HLT;
 
 
 ## Output  
-![image](https://github.com/user-attachments/assets/d6bc4491-6aaa-446e-805b-4ec986587743)
+<img src="https://github.com/user-attachments/assets/d6bc4491-6aaa-446e-805b-4ec986587743" alt="Image description" width="500" />
 
  
 ## Subtraction   of 8 bit numbers  ALP 
@@ -100,7 +100,7 @@ sub AL,BL;
 HLT;
 ```
 ## Output  
-![image](https://github.com/user-attachments/assets/96f96a36-9693-4a63-81f0-50899465b21c)
+<img src="https://github.com/user-attachments/assets/96f96a36-9693-4a63-81f0-50899465b21c" alt="Image description" width="500" />
 
 ## Multiplication alp 
 ```
@@ -110,7 +110,7 @@ mul AL,BL;
 HLT;
 ```
  ## Output  
-![Multiplication](https://github.com/user-attachments/assets/be4a28e0-92cd-4a0f-b48b-35a9b4c627cf)
+<img src="https://github.com/user-attachments/assets/be4a28e0-92cd-4a0f-b48b-35a9b4c627cf" alt="Multiplication" width="500" />
 
 
 ## Division alp 
@@ -121,7 +121,7 @@ Div AL,BL;
 HLT;
 ```
 ## Output  
-![Division](https://github.com/user-attachments/assets/ad9662b8-b834-4812-84d7-b99fede3a2ff)
+<img src="https://github.com/user-attachments/assets/ad9662b8-b834-4812-84d7-b99fede3a2ff" alt="Division" width="500" />
 
 # Programs for Logical  operations
 ## Logical AND:
@@ -133,7 +133,7 @@ HLT;
 ```
 
 ## OUTPUT:
-![AND operation](https://github.com/user-attachments/assets/52ec0ce3-61d5-4b63-ac8a-df1539d5e10a)
+<img src="https://github.com/user-attachments/assets/52ec0ce3-61d5-4b63-ac8a-df1539d5e10a" alt="AND operation" width="500" />
 
 ## Logical OR:
 ```
@@ -144,7 +144,7 @@ HLT;
 ```
 
 ## OUTPUT:
-![OR operation](https://github.com/user-attachments/assets/92e9f05d-6f80-4874-babf-be2d26b5462b)
+<img src="https://github.com/user-attachments/assets/92e9f05d-6f80-4874-babf-be2d26b5462b" alt="OR operation" width="500" />
 
 ## Logical NOT:
 ```
@@ -154,7 +154,7 @@ HLT;
 ```
 
 ## OUTPUT:
-![NOT operation](https://github.com/user-attachments/assets/e4361323-edd2-4d57-9428-959010f2c482)
+<img src="https://github.com/user-attachments/assets/e4361323-edd2-4d57-9428-959010f2c482" alt="NOT operation" width="500" />
 
 ## Logical XOR:
 ```
@@ -164,7 +164,7 @@ XOR AL,BL;
 HLT;
 ```
 ## OUTPUT:
-![XOR operation](https://github.com/user-attachments/assets/3150fb06-3795-4af8-9b76-739278e36b26)
+<img src="https://github.com/user-attachments/assets/3150fb06-3795-4af8-9b76-739278e36b26" alt="XOR operation" width="500" />
 
 
 ## Result :
